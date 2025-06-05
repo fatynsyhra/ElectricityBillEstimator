@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+    <string name="app_name">WattCalc</string>
+
+    <!-- Array untuk Spinner bulan -->
+    <string-array name="months_array">
+        <item>Select Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!-- Array untuk Spinner rebat -->
+    <string-array name="rebate_array">
+        <item>Select Rebate</item>
+        <item>0%</item>
+        <item>2%</item>
+        <item>4%</item>
+        <item>6%</item>
+        <item>8%</item>
+        <item>10%</item>
+    </string-array>
+
+    <!-- Strings lain boleh tambah sini -->
+</resources>
